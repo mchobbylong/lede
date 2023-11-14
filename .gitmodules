@@ -1,0 +1,6 @@
+[submodule "package/luci-app-mentohust"]
+	path = package/luci-app-mentohust
+	url = https://github.com/BoringCat/luci-app-mentohust
+[submodule "package/mentohust"]
+	path = package/mentohust
+	url = https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
